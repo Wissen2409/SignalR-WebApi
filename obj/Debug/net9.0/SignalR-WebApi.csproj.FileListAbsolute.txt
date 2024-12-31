@@ -37,3 +37,4 @@
 /Users/emrahelis/SignalR-WebApi/obj/Debug/net9.0/SignalR-WebApi.pdb
 /Users/emrahelis/SignalR-WebApi/obj/Debug/net9.0/SignalR-WebApi.genruntimeconfig.cache
 /Users/emrahelis/SignalR-WebApi/obj/Debug/net9.0/ref/SignalR-WebApi.dll
+/Users/emrahelis/SignalR-WebApi/obj/Debug/net9.0/SignalR-WebApi.sourcelink.json

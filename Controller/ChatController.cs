@@ -26,6 +26,7 @@ public class ChatController : ControllerBase
             return BadRequest("Invalid message or username");
         }
         await _chatHubContext.Clients.All.SendAsync("ReceiveMessage", chatMessage.User, chatMessage.Message);
+
         return Ok();
 
     }

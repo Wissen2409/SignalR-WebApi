@@ -1,0 +1,15 @@
+/Users/emrahelis/SignalR-WebApi/publish/SignalR-WebApi
+/Users/emrahelis/SignalR-WebApi/publish/appsettings.Development.json
+/Users/emrahelis/SignalR-WebApi/publish/appsettings.json
+/Users/emrahelis/SignalR-WebApi/publish/SignalR-WebApi.dll
+/Users/emrahelis/SignalR-WebApi/publish/SignalR-WebApi.deps.json
+/Users/emrahelis/SignalR-WebApi/publish/SignalR-WebApi.runtimeconfig.json
+/Users/emrahelis/SignalR-WebApi/publish/SignalR-WebApi.pdb
+/Users/emrahelis/SignalR-WebApi/publish/Microsoft.AspNetCore.Http.Connections.Client.dll
+/Users/emrahelis/SignalR-WebApi/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/emrahelis/SignalR-WebApi/publish/Microsoft.AspNetCore.SignalR.Client.dll
+/Users/emrahelis/SignalR-WebApi/publish/Microsoft.AspNetCore.SignalR.Client.Core.dll
+/Users/emrahelis/SignalR-WebApi/publish/Microsoft.OpenApi.dll
+/Users/emrahelis/SignalR-WebApi/publish/Newtonsoft.Json.dll
+/Users/emrahelis/SignalR-WebApi/publish/System.Net.ServerSentEvents.dll
+/Users/emrahelis/SignalR-WebApi/publish/System.Net.WebSockets.WebSocketProtocol.dll

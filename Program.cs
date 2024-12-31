@@ -9,7 +9,8 @@ builder.Services.AddCors(option =>
 {
     option.AddDefaultPolicy(policy =>
     {
-        policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+        policy.WithOrigins("http://wissenchat.runasp.net").AllowAnyHeader().WithMethods("POST","GET")
+        .AllowCredentials();
     });
 
 });

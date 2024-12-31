@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "r/AHJscO1/xMnrQeAAhapuN++zWXEQ9XZ2BoTR3gNcE=",
+  "Source": "SignalR-WebApi",
+  "BasePath": "_content/SignalR-WebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
